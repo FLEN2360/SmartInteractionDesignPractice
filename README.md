@@ -2,6 +2,8 @@
 
 ## git 、 git hub
 
+https://github.com/FLEN2360/SmartInteractionDesignPractice/tree/master
+
 ### git init
 
 對當前資料夾創建 git 控制
@@ -168,3 +170,15 @@ let ABC = 1000;
 
 console.log(ABC);
 ```
+### 加一個程式碼
+``` js
+let RAM;
+
+RAM = 3;
+console.log(RAM);
+
+
+RAM = 2;
+console.log(RAM);
+```
+

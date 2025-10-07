@@ -1,3 +1,8 @@
-let ABC = 1000;
+let RAM;
 
-console.log(ABC);
+RAM = 3;
+console.log(RAM);
+
+
+RAM = 2;
+console.log(RAM);
