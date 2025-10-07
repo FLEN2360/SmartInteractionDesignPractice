@@ -146,3 +146,25 @@ git push
 ```git
 git push -f
 ```
+
+### TEST
+
+``` js
+let A = "一二三四五六七八九十";
+```
+### USER
+
+``` js
+let user1 = {
+    neme: "John Doe",
+    age: 30,
+};
+```
+
+### main
+
+``` js
+let ABC = 1000;
+
+console.log(ABC);
+```
